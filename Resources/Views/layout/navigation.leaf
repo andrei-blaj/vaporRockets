@@ -1,0 +1,4 @@
+<nav class="navbar bg-dark sticky-top">
+    <a href="/"> Home </a>
+    <a href="/rockets"> Rockets </a>
+</nav>
