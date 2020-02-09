@@ -1,0 +1,9 @@
+<html>
+    <head>
+        <title> #(title) </title>
+        #embed("layout/css")
+    </head>
+    <body>
+        #get(content)
+    </body>
+</html>
